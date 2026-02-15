@@ -25,7 +25,7 @@
     example:
 
     ```bash
-    spotdl download https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj
+    spotdl download https://open..com/album/4yP0hdKOZPNshxUOjY0cZj
     ```
 
 ??? Playlist info
