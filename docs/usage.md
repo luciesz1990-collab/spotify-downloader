@@ -1,6 +1,6 @@
 # spotDL usage examples
 
-## Downloading
+    ## Downloading
 
 ??? Song info
     To download a song, run
