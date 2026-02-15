@@ -69,7 +69,7 @@
 
 ??? info "YouTube link with Spotify metadata"
     To download a YouTube video with metadata from Spotify, run
-    > Note that the quotes `"` are required
+    > Note that the quotes `"` are require
 
     ```bash
     spotdl download "YouTubeURL|SpotifyURL"
